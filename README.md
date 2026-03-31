@@ -41,7 +41,7 @@ cd RNN-Sentiment-Analysis
 
 ---
 
-##Install dependencies
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
