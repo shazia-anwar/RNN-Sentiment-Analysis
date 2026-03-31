@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-A simple and interactive Sentiment Analysis application built using PyTorch (RNN) and TF-IDF, deployed with Streamlit.
+A Sentiment Analysis project built using PyTorch (RNN) and TF-IDF in Jupyter Lab to classify text as positive or negative sentiment.
 
 ---
 
