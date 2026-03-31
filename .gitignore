@@ -1,0 +1,6 @@
+# Ignore Jupyter auto files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Ignore datasets
+*.csv
