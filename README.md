@@ -64,9 +64,9 @@ pip install -r requirements.txt
 
 ## Future Improvements
 
-Use LSTM/GRU instead of basic RNN
-Improve accuracy with word embeddings
-Enhance UI/UX
+• Use LSTM/GRU instead of basic RNN  
+• Improve accuracy with word embeddings  
+• Enhance UI/UX  
 
 ---
 
