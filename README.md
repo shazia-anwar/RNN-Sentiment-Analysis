@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Example Inputs
 
-• "I love this product!" → Positive 😊  
+• "I love this product!" → Positive 😊
 • "This is the worst experience ever" → Negative 😡
 
 ---
