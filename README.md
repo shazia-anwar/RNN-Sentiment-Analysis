@@ -1,4 +1,4 @@
-# Sentiment Analysis Web App Live Demo
+# Sentiment Analysis
 
 A simple and interactive Sentiment Analysis application built using PyTorch (RNN) and TF-IDF, deployed with Streamlit.
 
