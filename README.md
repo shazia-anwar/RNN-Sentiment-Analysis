@@ -50,14 +50,14 @@ pip install -r requirements.txt
 
 ## Example Inputs
 
-• "I love this product!" → Positive 😊
+• "I love this product!" → Positive 😊 
 • "This is the worst experience ever" → Negative 😡
 
 ---
 
 ## Note
 
-• Model may struggle with sarcasm or neutral sentences
+• Model may struggle with sarcasm or neutral sentences 
 • Built for learning and demonstration purposes
 
 ---
